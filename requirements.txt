@@ -1,0 +1,7 @@
+pandas==1.5.3
+scikit-learn
+matplotlib
+seaborn
+plotly
+nbformat
+xgboost
