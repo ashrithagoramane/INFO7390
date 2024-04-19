@@ -25,6 +25,9 @@ This project utilizes Yelp's extensive dataset to explore factors that influence
     ```bash
     pip install -r requirements.txt
     ```
+# Data sources
+
+- https://www.yelp.com/dataset 
 
 # Project features
 - **Data Preprocessing:** Handles missing values, data standardization, and outlier detection.
